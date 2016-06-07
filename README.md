@@ -1,2 +1,4 @@
 # hello-world
-test repositoru
+test repository
+
+gitHub is awesome!!!
